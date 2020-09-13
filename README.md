@@ -75,3 +75,4 @@ Computing the mean in float64 is more accurate:
 >>> np.mean(a, dtype=np.float64)
 0.55000000074505806 # may vary
 
+https://user-images.githubusercontent.com/32649253/93009112-636bcf80-f59a-11ea-91c9-d918140e4214.png
